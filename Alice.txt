@@ -11,3 +11,7 @@ This 5th line is to welcome Patrick.
 New online changes!
 
 And the 6th before online.
+
+Changes for interactive rebase-Alice.
+
+2nd change for interactive rebase-Alice.
